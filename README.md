@@ -4,7 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ajanraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajanraj/)](https://www.linkedin.com/in/ajanraj/)
 [![GitHub followers](https://img.shields.io/github/followers/ajanraj?label=Follow&style=social)](https://github.com/ajanraj/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-cx8jm6xg@duck.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cx8jm6xg@duck.com)](mailto:cx8jm6xg@duck.com)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=ajanraj&color=brightgreen">
 
 ## Hi there 👋,
 
