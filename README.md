@@ -18,7 +18,7 @@
 - 📊 Data science enthusiast passionate about exploring and analyzing data
 - 🎓 Currently pursuing an MSc in Data Science at King's College London
 - 💡 Experienced in machine learning, data visualization, and statistical analysis
-- 🌐 Actively involved in data science communities and mentoring aspiring data scientists
+- 🌐 Actively involved in data science communities
 - 🎤 Conducted data science events, organizing workshops and webinars to share knowledge
 - 🚀 Always eager to learn and collaborate on data-driven projects
 
@@ -27,7 +27,6 @@
 - 💬 Ask me about anything and everything!
 - 📫 How to reach me: email me at cx8jm6xg@duck.com
 - ⚡ Fun fact: I love meeting new people and playing games!
-- 💬 Ping Me about #DataScience, #MachineLearning, #DataVisualization, #StatisticalAnalysis, #DataDrivenProjects and anything related to data science
 
 <!--
 **ajanraj/ajanraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
